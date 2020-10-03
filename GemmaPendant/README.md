@@ -1,4 +1,4 @@
-# Triket / Gemma 8-bit Pendant
+# Trinket / Gemma 8-bit Pendant
 
 This is a modified version of the code from this project: 
 https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant
