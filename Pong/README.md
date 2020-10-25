@@ -1,6 +1,6 @@
 # Arduboy Pong
 
-This is the classic Pong game written for the Arudboy, a miniture game system the size of a credit card which you can get here:
+This is the classic Pong game written for the Arduboy, a miniture game system the size of a credit card which you can get here:
 - https://arduboy.com/
 
 Note that this project is written for the original Arduboy library:
